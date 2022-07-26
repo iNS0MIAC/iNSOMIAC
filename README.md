@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/_insomiac_" target="blank"><img src="https://img.shields.io/twitter/follow/_insomiac_?logo=twitter&style=for-the-badge" alt="_insomiac_" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
